@@ -28,7 +28,7 @@ Required third-party software:
 
 
 ## Example Data
-A set of example images is available at https://osf.io/p372e/
+A set of example images is available at Open Science Framework: https://osf.io/p372e/
 
 Running quantify_movement.py on the example images should recreate the fractional mobility score data in `example_levamisole_data.npy`
 

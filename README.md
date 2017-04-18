@@ -32,4 +32,4 @@ A set of example images is available at Open Science Framework: https://osf.io/p
 
 Running quantify_movement.py on the example images should recreate the fractional mobility score data in `example_levamisole_data.npy`
 
-An example jupyter notebook, `levamisole_analysis.ipynb` illustrates the normalization of data and plotting procedure, using the data in `example_levamisole_data.npy`. This notebook can be viewed online at 
+An example jupyter notebook, `levamisole_analysis.ipynb` illustrates the normalization of data and plotting procedure, using the data in `example_levamisole_data.npy`.
